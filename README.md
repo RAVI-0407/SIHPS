@@ -28,6 +28,7 @@ A donation and fundraising platform using safe and protected online donation pla
 
 ## Proposed Solution / Architecture Diagram
 
+![web work](https://github.com/user-attachments/assets/29eee2ec-d30f-4546-b539-e1a4f42700aa)
 
 ## Use Cases
 
