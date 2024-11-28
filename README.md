@@ -27,9 +27,7 @@ A donation and fundraising platform using safe and protected online donation pla
 5.Analytics Dashboard: Give the admins an insight into alumni engagement, event participation, and donation trends.
 
 ## Proposed Solution / Architecture Diagram
-
 ![web work](https://github.com/user-attachments/assets/29eee2ec-d30f-4546-b539-e1a4f42700aa)
-
 ## Use Cases
 
 Alumni Registration
